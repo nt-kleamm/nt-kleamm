@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.VON9gHTrzeHZbHfXsqfzEAHaEq%26pid%3DApi&f=1&ipt=5246aede12439a4fa29dd27b9e6bffa7fae0826bed99eb6c28c994df070d47d9&ipo=images">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native - Git**
 
 - 💬 Ask me about **Python, Sqlite, Javascript**
 
